@@ -7,7 +7,9 @@
 В отдельной папке загружены используемые файлы, скрипты, pipeline для обучения модели.
 
 Использованы инструкции:
+
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#tensorflow-object-detection-api-installation
+
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
 
 А также, ряд скриптов заимствован из статьи https://habr.com/ru/post/530850/
