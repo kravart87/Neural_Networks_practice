@@ -3,7 +3,7 @@
 
 ## Object Detection
 
-В отдельной папке выложен ноутбук и файлы по адаптация библиотеки object detection для работы в Google Colab.
+В отдельной папке выложен ноутбук и файлы по адаптации библиотеки object detection для работы в Google Colab.
 
 Использованы инструкции:
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#tensorflow-object-detection-api-installation
