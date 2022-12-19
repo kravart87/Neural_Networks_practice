@@ -1,5 +1,12 @@
-# neural_network_practice
+# Нейронные сети
+
 Практические работы по нейронным сетям (Tensorflow Keras)
+
+**Нейронная_сеть(код).ipynb** - реализация полносвязной НС с помощью инструментов python.
+
+**TransferLearning_FineTuning.ipynb** - практическое применение FineTuning для обучения классификатора изображений.
+
+
 
 ## Object Detection
 
